@@ -4,7 +4,7 @@ Dog Face Generator
 
 Motivation
 ===============
-This is a memory travel project that creates an image of the past image of companion animal. (artificial intelligence class project)
+This is a memory travel project that creates an image of the past image of companion animal. (artificial intelligence class project on KHU)
 
 Result Picture
 =============
