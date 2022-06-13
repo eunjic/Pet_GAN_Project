@@ -13,4 +13,4 @@ Result Picture
 
 Demo Video
 ============
-[![project presentation video](https://www.youtube.com/watch?v=096Y42ErW2Y)
+[project presentation video](https://www.youtube.com/watch?v=096Y42ErW2Y)
